@@ -75,7 +75,7 @@ gap: 10px;
 <br></br>
 <br></br>
         <a href="https://www.instagram.com/mara_lechat/"> <img src="src\assets\instagram.png" height= "20px"/> </a>
-        <a href="https://www.tiktok.com/@maralechat"><img src="src\assets\facebook.png" height= "20px"/> </a>
+        <a href="https://www.tiktok.com/@maralechat"><img src="src\assets\tik-tok.png" height= "20px"/> </a>
       
         <a href="https://www.youtube.com/@mara.animation5931"><img src="src\assets\youtube.png" height= "20px"/> </a>
         <h3>  🐛 🐔  🐍 🐜 </h3>
